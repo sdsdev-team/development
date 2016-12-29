@@ -1,5 +1,16 @@
 # Git Hosting
 ## Gitlab
+https://about.gitlab.com/
+
+설치형 Git hosting 서버
+
+Issue관리기능을 제공하며, Label과 Milestone을 지정할 수 있다.
+
+Kanban board형태로 Issue를 관리할 수 있는 Project기능을 제공한다.
+
+Gitlab CI라는 CI도구가 통합되어 있으며, Auto Deploy기능을 제공한다.<br>
+또한, ReviewApp을 통하여 특정 Branch의 내용을 구동하여 테스트 해 볼 수 있다.
+
 
 # Collaboration Tools
 ## Mattermost
