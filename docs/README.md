@@ -96,8 +96,6 @@ http://checkstyle.sourceforge.net/
 Java
 
 # CSS Preprocessors
-[SASS vs. LESS vs. Stylus] (https://www.gadgetdaily.xyz/sass-v-less-v-stylus-the-pros-and-cons/)
-
 ## LESS
 ## SASS
 ## Stylus
