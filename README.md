@@ -1,1 +1,1 @@
-개발할 때 필요한 것들을 찾고 공유
+Documentation : https://sdsdev-team.github.io/development/
