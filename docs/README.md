@@ -19,8 +19,12 @@ Slack을 On-Premise로 설치하여 사용할 수 있는 Open Source
 service url만 mattermost로 변경하면, 동일한 기능을 제공한다.
 
 계정정보는 자체 서비스를 이용하거나, `Gitlab` OAuth를 사용할 수 있으며<br >
-`Enterprise버전`부터는 Google, Office365, Active Directory, LDAP등을 이용한 SSO를 지원한다.
+`Enterprise버전`부터 Google, Office365, Active Directory, LDAP등을 이용한 SSO를 지원한다.
 
+# ChatBot
+## Hubot
+
+# Application Lifecycle Management
 
 ## Phabricator 
 https://www.phacility.com/phabricator/
@@ -34,7 +38,6 @@ Facebook에서 만든 협업 Tool Set
 - Diffusion: Git Hosting 시스템
 - Herald: Rule 기반 후처리 시스템
 
-## Hubot
 
 # AI / Machine Learning
 ## TensorFlow
