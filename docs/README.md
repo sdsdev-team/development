@@ -11,10 +11,21 @@
 
 # Collaboration Tools
 ## Mattermost
+https://about.mattermost.com/
+
+Slack을 On-Premise로 설치하여 사용할 수 있는 Open Source
+
+`Slack Compatible`을 표방하고 있으며, 이미 Slack과 연결하는 기능이 있다면,<br >
+service url만 mattermost로 변경하면, 동일한 기능을 제공한다.
+
+계정정보는 자체 서비스를 이용하거나, `Gitlab` OAuth를 사용할 수 있으며<br >
+`Enterprise버전`부터는 Google, Office365, Active Directory, LDAP등을 이용한 SSO를 지원한다.
+
+
 ## Phabricator 
 https://www.phacility.com/phabricator/
 
-Facebook에서 만든 협업 Tool Set으로
+Facebook에서 만든 협업 Tool Set
 
 - Maniphest: 작업관리 소프트웨어. 칸반보드 형태를 지원
 - Phriction: Wiki. 수정과 조회를 위한 접근권한 제어가 가능
