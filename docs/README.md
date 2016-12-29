@@ -14,9 +14,7 @@
 ## Phabricator 
 https://www.phacility.com/phabricator/
 
-Facebook에서 만든 협업 Tool Set으로,
-
-80 port로 서비스 되어야 하며, Relative Path로 서비스를 설정할 수 없다.
+Facebook에서 만든 협업 Tool Set으로
 
 - Maniphest: 작업관리 소프트웨어. 칸반보드 형태를 지원
 - Phriction: Wiki. 수정과 조회를 위한 접근권한 제어가 가능
