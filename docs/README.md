@@ -11,7 +11,9 @@
 
 # Collaboration Tools
 ## Mattermost
-## Phabricator <small>https://www.phacility.com/phabricator/</small>
+## Phabricator 
+https://www.phacility.com/phabricator/
+
 Facebook에서 만든 협업 Tool Set으로 PHP로 구성되어 있음
 
 Toolset의 집합을 Phabricator로 부르고 있으며, 기본적으로 80 port로 서비스 되어야 하며,
