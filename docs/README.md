@@ -1,11 +1,3 @@
-# Microservice
-## Spring boot
-## Zuul
-## Eureka
-## Chaos Monkey
-## Hystrix
-## Conductor
-
 # Git Hosting
 ## Gitlab
 
