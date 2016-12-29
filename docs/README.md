@@ -5,6 +5,8 @@
 ## Chaos Monkey
 ## Hystrix
 ## Conductor
+# Git Hosting
+## Gitlab
 # Collaboration Tools
 ## Mattermost
 ## Phacility
