@@ -33,6 +33,27 @@ Facebook에서 만든 협업 Tool Set으로,
 # DB Migration
 ## Flyway
 ## Liquibase
+http://www.liquibase.org/
+
+Migration정보는 `changelog`파일에 저장되며, `changelog`는 여러개의 `changeset`으로 구성된다.
+
+각 `changeset`은 `author`와 `id`값을 통해 유일하게 식별된다.<br>
+liquibase가 실행될 때, `changelog`파일에 있는 모든 `changeset`을 조회하며 <br >
+이 중, 실행되지 않은 `changeset`를 실행한다.
+
+
+### 실행
+Ant, Maven 혹은 Command Line을 통해 명령을 실행할 수 있으며,
+
+Servlet Listener, Spring Listener 등을 통해서 Web App.이 기동될 때 실행될 수 있다.
+
+### Internal
+Migration정보는 `DATABASECHANGELOG`와 `DATABASECHANGELOGLOCK` 테이블에서 관리된다.
+
+`DATABASECHANGELOG`는 동작한 migration에 대한 정보를,<br />
+`DATABASECHANGELOGLOCK`은 Migration script가 동시에 시작되는 것을 막는다.
+
+
 
 # Persistance
 ## Redis
