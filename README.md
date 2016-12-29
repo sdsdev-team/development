@@ -1,2 +1,1 @@
-# opensources
-Open source 찾아보기
+개발할 때 필요한 것들을 찾고 공유
