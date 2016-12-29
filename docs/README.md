@@ -38,7 +38,7 @@ http://www.liquibase.org/
 Migration정보는 `changelog`파일에 저장되며, `changelog`는 여러개의 `changeset`으로 구성된다.
 
 각 `changeset`은 `author`와 `id`값을 통해 유일하게 식별된다.<br>
-liquibase가 실행될 때, `changelog`파일에 있는 모든 `changeset`을 조회하며 <br >
+liquibase가 실행될 때, `changelog`파일에 있는 모든 `changeset`에 대하여 수행로그를 확인하며 <br >
 이 중, 실행되지 않은 `changeset`를 실행한다.
 
 
