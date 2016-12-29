@@ -80,12 +80,25 @@ Migration정보는 `DATABASECHANGELOG`와 `DATABASECHANGELOGLOCK` 테이블에�
 ## Vagrant
 
 # Lint
-## Infer
 ## esLint
+http://eslint.org/
+
+Javascript
+
 ## scss-lint
+https://github.com/brigade/scss-lint
+
+SCSS
+
 ## check-style
+http://checkstyle.sourceforge.net/
+
+Java
 
 # CSS Preprocessors
+[SASS vs. LESS vs. Stylus] (https://www.gadgetdaily.xyz/sass-v-less-v-stylus-the-pros-and-cons/)
+
 ## LESS
 ## SASS
 ## Stylus
+
