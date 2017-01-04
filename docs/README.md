@@ -1,16 +1,22 @@
 # Issue Management
-## RedMIne
-## Phabricator
-## Trac
-## Mantis
-## BugZilla
-## Gitlab
+|             | Platform      | License        | 비고 |
+|---          |---            |---             |---  |
+| RedMine     | Ruby On Rails | GPL2           | .. |
+| Phabricator | PHP           | Apache2        | .. |
+| Trac        | Python        | BSD            | .. |
+| Mantis      | PHP           | GPL2           | .. |
+| BugZilla    | Perl          | Mozilla Public | .. |
+| Gitlab      | Ruby On Rails | ..             | .. |
+
 
 # Git Hosting / Code Review
-## Gitlab
-## Phabricator
-## Gerrit
-## Review Board
+
+|             | Platform      | License        | 비고 |
+|---          |---            |---             |---  |
+| Phabricator | PHP           | Apache2        | .. |
+| Gitlab      | Ruby On Rails | ..             | .. |
+| Gerrit      | Java          | Apache2        | .. |
+| Review Board| Python        | MIT            | .. |
 
 # CI/CD
 ## Concourse
