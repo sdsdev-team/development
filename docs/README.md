@@ -57,12 +57,6 @@
 
 
 # Logging / Monitoring
-## Kibana
-## LogStash
-## Graphite
-## Grapana
-## Zipkin
-
 |                   | Platform      | License        | 비고 |
 |---                |---            |---             |---  |
 | Kibana            |               |                | .. |
