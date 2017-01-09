@@ -4,16 +4,16 @@
   - Trac
   - Mantis
   - BugZilla
-  - Gitlab
+  - [Gitlab](/devops-tools/gitlab)
 - Git Hosting / Code Review
-  - Phabricator
-  - Gitlab
+  - [Phabricator](/devops-tools/phabricator)
+  - [Gitlab](/devops-tools/gitlab)
   - Gerrit
   - Review Board
 - CI/CD
   - Concourse
   - Jenkins
-  - Gitlab CI
+  - [Gitlab CI](/devops-tools/gitlab-ci)
   - Spinnaker
   - GoCD
 - Virtualize
