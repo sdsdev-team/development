@@ -1,5 +1,5 @@
+- [Overview](/devops-tools/)
 - Issue Management
-  - [Overview](/devops-tools/)
   - [RedMine](/devops-tools/redmine)
   - [Phabricator](/devops-tools/phabricator)
   - [Trac](/devops-tools/trac)
