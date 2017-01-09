@@ -1,4 +1,4 @@
 
 # DevOps tools
-[Tools](devops-tools.md)
+[Tools](devops-tools)
 # Library
