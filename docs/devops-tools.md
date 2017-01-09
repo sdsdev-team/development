@@ -24,7 +24,7 @@
 |---          |---            |---             |---  |
 | Concourse   | Go            | Apache2        | .. |
 | Jenkins     | Java          | MIT            | .. |
-| GitlabCI    | Ruby          | Apache2        | `8.0`부터 Gitlab에 기능이 통합됨. git repository root에 `.gitlab-ci.yml`파일을 통해 설정. `Gitlab Runner`(agent)가 빌드를 실행 |
+| GitlabCI    | Ruby          | Apache2        | `8.0`부터 Gitlab에 기능이 통합됨.<br > git repository root에 `.gitlab-ci.yml`파일을 통해 설정.<br > `Gitlab Runner`(agent)가 빌드작업을 수행 |
 | Spinnaker   | Java          | Apache2        | .. |
 | GoCD        | Java, Ruby    | Apache2        | .. |
 
