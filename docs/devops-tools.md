@@ -2,7 +2,7 @@
 |             | Platform      | License        | 비고 |
 |---          |---            |---             |---  |
 | RedMine     | Ruby On Rails | GPL2           | .. |
-| Phabricator | PHP           | Apache2        | .. |
+| [Phabricator](devops-tools/phabricator) | PHP           | Apache2        | .. |
 | Trac        | Python        | BSD            | .. |
 | Mantis      | PHP           | GPL2           | .. |
 | BugZilla    | Perl          | Mozilla Public | .. |
