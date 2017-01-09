@@ -5,9 +5,7 @@
   - [Trac](/devops-tools/trac)
   - [Mantis](/devops-tools/mantis)
   - [BugZilla](/devops-tools/bugzilla)
-  - [Gitlab](/devops-tools/gitlab)
 - Git Hosting / Code Review
-  - [Phabricator](/devops-tools/phabricator)
   - [Gitlab](/devops-tools/gitlab)
   - [Gerrit](/devops-tools/gerrit)
   - [Review Board](/devops-tools/review-board)
