@@ -1,4 +1,4 @@
 
 # DevOps tools
-[Tools](devops-tools)
+[Tools](devops-tools/README)
 # Library
