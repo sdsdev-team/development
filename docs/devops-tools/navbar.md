@@ -1,5 +1,5 @@
 - [Overview](/devops-tools/)
-- [Issue Management](/devops-tools/issue-management-tools)
+- [Issue Management](/devops-tools/issue-management)
 - [Git Hosting / Code Review](/devops-tools/git-hosting)
 - [CI/CD](/devops-tools/ci-cd)
 - [Virtualize](/devops-tools/virtualize)
