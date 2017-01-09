@@ -12,18 +12,31 @@ SaaS 형태로 서비스를 이용하거나, On-Premise 형태로 설치하여 �
 
 
 * Diffusion
+
   Git, SVN, Mercurial 등을 호스팅 할 수 있는 서비스
 * Differential
+
   코드리뷰를 위한 시스템
+  
   여러명의 코드 리뷰어를 지정할 수 있으며, 리뷰 의견에 대한 결과를 입력해야 함
+  
 * Herald
+
   Post-Commit Audit을 위한 rule engine
+  
 * Maniphest
+
   일감관리 시스템
+  
 * Workboard
+
   Kanban 형태의 일감관리 기능 제공
+  
 * Phriction
+
   Wiki 시스템
+  
 * Conpherence
+
   Chat 기반 협업시스템
 
