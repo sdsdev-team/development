@@ -64,3 +64,12 @@
 | Graphite          |               |                | .. |
 | Grapana           |               |                | .. |
 | Zipkin            |               |                | .. |
+
+# Collaboration
+|                   | Platform          | License        | 비고 |
+|---                |---                |---             |---  |
+| Mattermost        | Go Lang, React.js | Apache2        | Slack Alternative. Slack Compatible. Gitlab과 Integration이 쉬움 |
+| Rocket.Chat       | Meteor            | MIT            | Slack Alternative. ongoDb만 지원. Client가 무거운 편 |
+| Only Office       | Mono, .NET        | AGPL 3.0       | 문서공유 및 동시편집용 |
+
+[Rocket.chat vs. Mattermost](https://stackshare.io/stackups/lets-chat-vs-rocketchat-vs-mattermost)
