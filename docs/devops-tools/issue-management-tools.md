@@ -1,8 +1,10 @@
-# Phabricator
+# Issue Management Tools
+
+## Phabricator
 
 https://www.phacility.com/phabricator/
 
-## Overview
+### Overview
 
 Facebook에서 만든 협업 Tool Set.
 SaaS 형태로 서비스를 이용하거나, On-Premise 형태로 설치하여 사용할 수 있다.
@@ -12,7 +14,7 @@ SaaS 형태로 서비스를 이용하거나, On-Premise 형태로 설치하여 �
 
 구성하는 개별 요소별로 별도의 도메인을 가지고 있는 구조를 추천한다.
 
-## 구성
+### 구성
 * Diffusion
  * Git, SVN, Mercurial 등을 호스팅 할 수 있는 서비스
  
