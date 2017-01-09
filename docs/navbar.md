@@ -1,6 +1,6 @@
 - Devops Tools
   - [Overview](/devops-tools/README)
-  - [Issue Management]
+  - Issue Management
     - RedMine
     - [Phabricator](/devops-tools/phabricator)
     - Trac
