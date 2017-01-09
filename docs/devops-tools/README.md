@@ -6,14 +6,12 @@
 | Trac        | Python        | BSD            | .. |
 | Mantis      | PHP           | GPL2           | .. |
 | BugZilla    | Perl          | Mozilla Public | .. |
-| Gitlab      | Ruby          | ..             | .. |
 
 
 # Git Hosting / Code Review
 
 |             | Platform      | License        | 비고 |
 |---          |---            |---             |---  |
-| Phabricator | PHP           | Apache2        | .. |
 | Gitlab      | Ruby          | ..             | .. |
 | Gerrit      | Java          | Apache2        | .. |
 | Review Board| Python        | MIT            | .. |
