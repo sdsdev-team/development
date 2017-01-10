@@ -4,4 +4,4 @@
 ## Jenkins
 ## GitlabCI
 ## Spinnaker
-## GoCD	Jav
+## GoCD
