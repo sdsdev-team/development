@@ -1,7 +1,7 @@
 # Git Hosting & Review
 
-## Getlab
-###Overview
+## Gitlab
+### Overview
 ## Gerrit
 ### Overview
 ## ReviewBoard
