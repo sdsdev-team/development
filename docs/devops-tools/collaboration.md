@@ -20,6 +20,9 @@ HA 구성은 Enterprise 버전에서만 제공된다.
 공식적으로는 Linux나 Docker를 통해 설치할 수 있고, 비공식적으로 Windows에 설치할 수 있는 방법이 있다.<br >
 (공식 사이트에 비공식적으로 가이드를 하고 있다.)
 
+## Rocket.Chat
+### Overview
+설치형 Slack Alternative.
 
 ## Only Office
 https://www.onlyoffice.com/
