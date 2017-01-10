@@ -43,7 +43,7 @@
 | [Ansible](/devops-tools/configuration-management#ansible)   | Python        | GPL            | agent나 runner 설치 없이 동작(ssh, winRm 사용). YAML기반 설정. DSL을 지원하지 않음 |
 | [Chef](/devops-tools/configuration-management#chef)         | Ruby          |                | Mater-Client model. ruby와 절차적 개발을 알아야 함. push를 지원하지 않음|
 | [Puppet](/devops-tools/configuration-management#puppet)     | Ruby          |                | Master-Client model. 커뮤니티가 오래되고 성숙함. 고급 기능은 Ruby기반 CLI를 사용해야 함. codebase가 빠르게 커지기 때문에, 배우기 어려움 |
-| [Fabric](/devops-tools/configuration-management#fabric)     | Python        |  | SSH를 이용한 Streaming Script.
+| [Fabric](/devops-tools/configuration-management#fabric)     | Python        |  | SSH를 이용한 Streaming Script. |
 
 # Service Discovery
 
