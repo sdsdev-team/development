@@ -1,6 +1,7 @@
 
 # DevOps tools
-## [Overview](/devops-tools/)
+  [Overview](/devops-tools/)
+  
 * [Issue Management](/devops-tools/issue-management)
 * [Git hosting / Code Review](/devops-tools/git-hosting)
 * [CI / CD](/devops-tools/ci-cd)
@@ -10,19 +11,11 @@
 * [Logging / Monitoring](/devops-tools/monitor)
 * [Collaboration](/devops-tools/collaboration)
 
-# Solutions
-## Redis
-In Memory Cache System
 
 
-# Library
-
-## Javascript
-### Mermaid
-text를 graph형태로 표현해 주는 library
-
-### Docsify
-Markdown을 SPA 형태로 보여주는 JavaScript
+# Solution
+## In-Memory Cache
+### Redis
 
 ## DB Migration
 ### Flyway
@@ -35,4 +28,27 @@ changeset에 지정된 author + id를 기반으로 migration script를 실행되
 (git branch/merge 방식의 개발에 잘 맞음)
 
 Ant나 Maven으로 실행 가능하며, Spring이나 Web App이 기동될 때 동작하도록 설정할 수 있음
+
+
+
+# Library
+
+## Javascript
+### Mermaid
+text를 graph형태로 표현해 주는 library
+
+### Docsify
+Markdown을 SPA 형태로 보여주는 JavaScript
+
+## Chart.js
+## D3.js
+## Dragula
+## moment.js
+## sweetAlert
+## clipboard.js
+
+# Java
+## Zuul
+## Eureka
+## Hollow
 
