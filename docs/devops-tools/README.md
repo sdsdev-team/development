@@ -36,14 +36,17 @@
 | [Kubernetes](/devops-tools/containerize#kubernetes)  |               |                | .. |
 
 
+
 # Configuration Management
 [Chef vs. Puppet vs. Ansible vs. SaltStack vs. Fabric](http://blog.takipi.com/deployment-management-tools-chef-vs-puppet-vs-ansible-vs-saltstack-vs-fabric/)
+
 |                                                             | Platform      | License        | 비고 |
 |---                                                          |---            |---             |---  |
-| [Ansible](/devops-tools/configuration-management#ansible)   | Python        | GPL            | agent나 runner 설치 없이 동작(ssh, winRm 사용). YAML기반 설정. DSL을 지원하지 않음 |
+| [Ansible](/devops-tools/configuration-management#ansible)   | Python        | GPL            | agent나 runner 설치 없이 동작(ssh, winRm 사용). YAML기반 설정. DSL을 지원하지 않음. module을 node로 전송하여 실행 |
 | [Chef](/devops-tools/configuration-management#chef)         | Ruby          |                | Mater-Client model. ruby와 절차적 개발을 알아야 함. push를 지원하지 않음|
 | [Puppet](/devops-tools/configuration-management#puppet)     | Ruby          |                | Master-Client model. 커뮤니티가 오래되고 성숙함. 고급 기능은 Ruby기반 CLI를 사용해야 함. codebase가 빠르게 커지기 때문에, 배우기 어려움 |
-| [Fabric](/devops-tools/configuration-management#fabric)     | Python        |  | SSH를 이용한 Streaming Script. |
+| [Fabric](/devops-tools/configuration-management#fabric)     | Python        |     | agent나 runner 설치 없이 동작(ssh 이용). shell 명령을 전달하여 수행하는 방식 |
+
 
 # Service Discovery
 
