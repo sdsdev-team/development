@@ -32,7 +32,23 @@ changeset에 지정된 author + id를 기반으로 migration script를 실행되
 
 Ant나 Maven으로 실행 가능하며, Spring이나 Web App이 기동될 때 동작하도록 설정할 수 있음
 
+## 정적분석
+### es-lint
+### scss-lint
+### check-style
 
+## Task runner
+### gulp
+### grunt
+### ant
+
+## CSS processor
+### LESS
+CSS Pre-processor
+### SASS
+CSS Pre-processor
+### PostCSS
+CSS Post-processor
 
 # Library
 
