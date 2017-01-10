@@ -30,7 +30,7 @@
 # Containerize
 |                                                   | Platform      | License        | 비고 |
 |---                                                |---            |---             |---  |
-| [Vagrant](/devops-tools/containerize#vagrant)        |               |                | .. |
+| [Vagrant](/devops-tools/containerize#vagrant)        | Ruby          | MIT            | .. |
 | [Docker](/devops-tools/containerize#docker)          |               |                | .. |
 | [Packer](/devops-tools/containerize#packer)          |               |                | .. |
 | [Kubernetes](/devops-tools/containerize#kubernetes)  |               |                | .. |
@@ -39,9 +39,9 @@
 # Configuration Management
 |                                                             | Platform      | License        | 비고 |
 |---                                                          |---            |---             |---  |
-| [Ansible](/devops-tools/configuration-management#ansible)   |               |                | .. |
-| [Chef](/devops-tools/configuration-management#chef)         |               |                | .. |
-| [Puppet](/devops-tools/configuration-management#puppet)     |               |                | .. |
+| [Ansible](/devops-tools/configuration-management#ansible)   | Python        |                | .. |
+| [Chef](/devops-tools/configuration-management#chef)         | Ruby          |                | .. |
+| [Puppet](/devops-tools/configuration-management#puppet)     | Ruby          |                | 개발경험이 없어도 사용할 수 있음. Scalilng이 어려움 |
 
 
 # Service Discovery
