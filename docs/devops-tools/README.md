@@ -1,73 +1,71 @@
 # Issue Management
-|             | Platform      | License        | 비고 |
-|---          |---            |---             |---  |
-| RedMine     | Ruby On Rails | GPL2           | .. |
+|                                                           | Platform      | License        | 비고 |
+|---                                                        |---            |---             |---  |
+| [RedMine](/devops-tools/issue-management#redmine)         | Ruby On Rails | GPL2           | .. |
 | [Phabricator](/devops-tools/issue-management#phabricator) | PHP           | Apache2        | .. |
-| Trac        | Python        | BSD            | .. |
-| Mantis      | PHP           | GPL2           | .. |
-| BugZilla    | Perl          | Mozilla Public | .. |
+| [Trac](/devops-tools/issue-management#trac)               | Python        | BSD            | .. |
+| [BugZilla](/devops-tools/issue-management#bugzilla)       | Perl          | Mozilla Public | .. |
 
 
 # Git Hosting / Code Review
 
-|             | Platform      | License        | 비고 |
-|---          |---            |---             |---  |
-| Gitlab      | Ruby          | ..             | .. |
-| Gerrit      | Java          | Apache2        | .. |
-| Review Board| Python        | MIT            | .. |
+|                                                           | Platform      | License        | 비고 |
+|---                                                        |---            |---             |---  |
+| [Gitlab](/devops-tools/git-hosting#gitlab)                | Ruby          | ..             | .. |
+| [Gerrit](/devops-tools/git-hosting#gerrit)                | Java          | Apache2        | .. |
+| [Review Board](/devops-tools/git-hosting#reviewboard)     | Python        | MIT            | .. |
 
 # CI/CD
 
 |             | Platform      | License        | 비고 |
 |---          |---            |---             |---  |
-| Concourse   | Go            | Apache2        | .. |
-| Jenkins     | Java          | MIT            | .. |
-| GitlabCI    | Ruby          | Apache2        | `8.0`부터 Gitlab에 기능이 통합됨.<br > git repository root에 `.gitlab-ci.yml`파일을 통해 설정.<br > `Gitlab Runner`(agent)가 빌드작업을 수행 |
-| Spinnaker   | Java          | Apache2        | .. |
-| GoCD        | Java, Ruby    | Apache2        | .. |
+| [Concourse](/devops-tools/ci-cd#concourse)   | Go            | Apache2        | .. |
+| [Jenkins](/devops-tools/ci-cd#jenkins)       | Java          | MIT            | .. |
+| [GitlabCI](/devops-tools/ci-cd#gitlabci)     | Ruby          | Apache2        | `8.0`부터 Gitlab에 기능이 통합됨 |
+| [Spinnaker](/devops-tools/ci-cd#spinnaker)   | Java          | Apache2        | .. |
+| [GoCD](/devops-tools/ci-cd#gocd)             | Java, Ruby    | Apache2        | .. |
 
 
-# Virtualize
-|             | Platform      | License        | 비고 |
-|---          |---            |---             |---  |
-| Vagrant     |               |                | .. |
-| Docker      |               |                | .. |
-| Packer      |               |                | .. |
-| Kubernetes  |               |                | .. |
-| Weave       |               |                | .. |
+# Container
+|                                                   | Platform      | License        | 비고 |
+|---                                                |---            |---             |---  |
+| [Vagrant](/devops-tools/container#vagrant)        |               |                | .. |
+| [Docker](/devops-tools/container#docker)          |               |                | .. |
+| [Packer](/devops-tools/container#packer)          |               |                | .. |
+| [Kubernetes](/devops-tools/container#kubernetes)  |               |                | .. |
 
 
 # Configuration Management
-|             | Platform      | License        | 비고 |
-|---          |---            |---             |---  |
-| Ansible     |               |                | .. |
-| Chef        |               |                | .. |
-| Puppet      |               |                | .. |
+|                                                             | Platform      | License        | 비고 |
+|---                                                          |---            |---             |---  |
+| [Ansible](/devops-tools/configuration-management#ansible)   |               |                | .. |
+| [Chef](/devops-tools/configuration-management#chef)         |               |                | .. |
+| [Puppet](/devops-tools/configuration-management#puppet)     |               |                | .. |
 
 
 # Service Discovery
 
-|                   | Platform      | License        | 비고 |
-|---                |---            |---             |---  |
-| Consul            |               |                | .. |
-| etcd              |               |                | .. |
-| Apache Zookeeper  |               |                | .. |
+|                                                         | Platform      | License        | 비고 |
+|---                                                      |---            |---             |---  |
+| [Consul](/devops-tools/service-discovery#consul)        |               |                | .. |
+| [etcd](/devops-tools/service-discovery#etcd)            |               |                | .. |
+| [Zookeeper](/devops-tools/service-discovery#zookeeper)  |               |                | .. |
 
 
 # Logging / Monitoring
-|                   | Platform      | License        | 비고 |
-|---                |---            |---             |---  |
-| Kibana            |               |                | .. |
-| LogStash          |               |                | .. |
-| Graphite          |               |                | .. |
-| Grapana           |               |                | .. |
-| Zipkin            |               |                | .. |
+|                                             | Platform      | License        | 비고 |
+|---                                          |---            |---             |---  |
+| [Kibana](/devops-tools/monitor#kibana)      |               |                | .. |
+| [LogStash](/devops-tools/monitor#logstash)  |               |                | .. |
+| [Graphite](/devops-tools/monitor#Graphite)  |               |                | .. |
+| [Grafana](/devops-tools/monitor#grafana)    |               |                | .. |
+| [Zipkin](/devops-tools/monitor#zipkin)      |               |                | .. |
 
 # Collaboration
-|                   | Platform          | License        | 비고 |
-|---                |---                |---             |---  |
-| Mattermost        | Go Lang, React.js | Apache2        | Slack Alternative. Slack Compatible. Gitlab과 Integration이 쉬움 |
-| Rocket.Chat       | Meteor            | MIT            | Slack Alternative. MongoDb만 지원. Client가 무거운 편 |
-| Only Office       | Mono, .NET        | AGPL 3.0       | 문서공유 및 동시편집. 웹 Interface(CommunityServer)와 문서API(DocumentServer)서버가 분리 |
+|                                                         | Platform          | License        | 비고 |
+|---                                                      |---                |---             |---  |
+| [Mattermost](/devops-tools/collaboration#mattermost)    | Go Lang, React.js | Apache2        | Slack Alternative. Slack Compatible.|
+| [Rocket.Chat](/devops-tools/collaboration#rocket.chat)  | Meteor            | MIT            | Slack Alternative |
+| [Only Office](/devops-tools/collaboration#onlyoffice)   | Mono, .NET        | AGPL 3.0       | 문서공유 및 동시편집  |
 
 [Rocket.chat vs. Mattermost](https://stackshare.io/stackups/lets-chat-vs-rocketchat-vs-mattermost)
