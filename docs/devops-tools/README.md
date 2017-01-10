@@ -1,6 +1,6 @@
 # Issue Management
 
-[Project 관리시스템 비교표](https://en.wikipedia.org/wiki/Comparison_of_project_management_software)
+<a href="https://en.wikipedia.org/wiki/Comparison_of_project_management_software" target="_blank">Project 관리시스템 비교표</a>
 
 |                                                           | Platform      | License        | 비고 |
 |---                                                        |---            |---             |---  |
