@@ -13,7 +13,7 @@
 |---                                                        |---            |---             |---  |
 | [Gitlab](/devops-tools/git-hosting#gitlab)                | Ruby          | ..             | .. |
 | [Gerrit](/devops-tools/git-hosting#gerrit)                | Java          | Apache2        | .. |
-| [Review Board](/devops-tools/git-hosting#reviewboard)     | Python        | MIT            | .. |
+| [Review Board](/devops-tools/git-hosting#review-board)    | Python        | MIT            | .. |
 
 # CI/CD
 
@@ -65,7 +65,7 @@
 |                                                         | Platform          | License        | 비고 |
 |---                                                      |---                |---             |---  |
 | [Mattermost](/devops-tools/collaboration#mattermost)    | Go Lang, React.js | Apache2        | Slack Alternative. Slack Compatible.|
-| [Rocket.Chat](/devops-tools/collaboration#rocketchat)  | Meteor            | MIT            | Slack Alternative |
-| [Only Office](/devops-tools/collaboration#onlyoffice)   | Mono, .NET        | AGPL 3.0       | 문서공유 및 동시편집  |
+| [Rocket.Chat](/devops-tools/collaboration#rocketchat)   | Meteor            | MIT            | Slack Alternative |
+| [Only Office](/devops-tools/collaboration#only-office)  | Mono, .NET        | AGPL 3.0       | 문서공유 및 동시편집  |
 
 [Rocket.chat vs. Mattermost](https://stackshare.io/stackups/lets-chat-vs-rocketchat-vs-mattermost)
