@@ -26,13 +26,13 @@
 | [GoCD](/devops-tools/ci-cd#gocd)             | Java, Ruby    | Apache2        | .. |
 
 
-# Container
+# Containerize
 |                                                   | Platform      | License        | 비고 |
 |---                                                |---            |---             |---  |
-| [Vagrant](/devops-tools/container#vagrant)        |               |                | .. |
-| [Docker](/devops-tools/container#docker)          |               |                | .. |
-| [Packer](/devops-tools/container#packer)          |               |                | .. |
-| [Kubernetes](/devops-tools/container#kubernetes)  |               |                | .. |
+| [Vagrant](/devops-tools/containerize#vagrant)        |               |                | .. |
+| [Docker](/devops-tools/containerize#docker)          |               |                | .. |
+| [Packer](/devops-tools/containerize#packer)          |               |                | .. |
+| [Kubernetes](/devops-tools/containerize#kubernetes)  |               |                | .. |
 
 
 # Configuration Management
