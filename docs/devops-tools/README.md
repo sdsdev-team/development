@@ -13,7 +13,7 @@
 |                                                           | Platform      | License        | 비고 |
 |---                                                        |---            |---             |---  |
 | [Gitlab](/devops-tools/git-hosting#gitlab)                | Ruby          | ..             | Git Hosting기능을 중심으로 여러 기능을 통합 |
-| [Gerrit](/devops-tools/git-hosting#gerrit)                | Java          | Apache2        | 코드리뷰를 위한 시스템으로, 리뷰를 하기 위한 별도 repository를 유지 |
+| [Gerrit](/devops-tools/git-hosting#gerrit)                | Java          | Apache2        | Pre-comit 코드리뷰를 지원. 리뷰를 위한 git repo.와 결과가 반영되는 git repo.가 분리 |
 | [Review Board](/devops-tools/git-hosting#review-board)    | Python        | MIT            | .. |
 
 # CI/CD
