@@ -65,7 +65,7 @@
 |                                                         | Platform          | License        | 비고 |
 |---                                                      |---                |---             |---  |
 | [Mattermost](/devops-tools/collaboration#mattermost)    | Go Lang, React.js | Apache2        | Slack Alternative. Slack Compatible.|
-| [Rocket.Chat](/devops-tools/collaboration#rocket.chat)  | Meteor            | MIT            | Slack Alternative |
+| [Rocket.Chat](/devops-tools/collaboration#rocketchat)  | Meteor            | MIT            | Slack Alternative |
 | [Only Office](/devops-tools/collaboration#onlyoffice)   | Mono, .NET        | AGPL 3.0       | 문서공유 및 동시편집  |
 
 [Rocket.chat vs. Mattermost](https://stackshare.io/stackups/lets-chat-vs-rocketchat-vs-mattermost)
