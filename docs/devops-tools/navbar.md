@@ -2,7 +2,7 @@
 - [Issue Management](/devops-tools/issue-management)
 - [Git Hosting / Code Review](/devops-tools/git-hosting)
 - [CI/CD](/devops-tools/ci-cd)
-- [Virtualize](/devops-tools/virtualize)
+- [Containerize](/devops-tools/containerize)
 - [Configuration Manage.](/devops-tools/configuration-management)
 - [Service Discovery](/devops-tools/service-discovery)
 - [Logging / Monitoring](/devops-tools/monitor)
