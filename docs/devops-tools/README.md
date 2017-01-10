@@ -1,20 +1,19 @@
 # Issue Management
 
-<a href="https://en.wikipedia.org/wiki/Comparison_of_project_management_software" target="_blank">Project 관리시스템 비교표</a>
+<a href="https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems" target="_blank">Project 관리시스템 비교표</a>
 
 |                                                           | Platform      | License        | 비고 |
 |---                                                        |---            |---             |---  |
-| [RedMine](/devops-tools/issue-management#redmine)         | Ruby On Rails | GPL2           | .. |
-| [Phabricator](/devops-tools/issue-management#phabricator) | PHP           | Apache2        | 개발에서 사용하는 여러 tool들의 집합 |
-| [Trac](/devops-tools/issue-management#trac)               | Python        | BSD            | 일감관리와 추적에 집중. 다른 기능은 부족한 편 |
+| [Phabricator](/devops-tools/issue-management#phabricator) | PHP           | Apache2        | 개발에서 사용하는 여러 tool들의 집합. Kanban 보드 제공 |
+| [RedMine](/devops-tools/issue-management#redmine)         | Ruby On Rails | GPL2           | WBS나 gantt 형태의 일감관리 가능 |
 
 
 # Git Hosting / Code Review
 
 |                                                           | Platform      | License        | 비고 |
 |---                                                        |---            |---             |---  |
-| [Gitlab](/devops-tools/git-hosting#gitlab)                | Ruby          | ..             | .. |
-| [Gerrit](/devops-tools/git-hosting#gerrit)                | Java          | Apache2        | .. |
+| [Gitlab](/devops-tools/git-hosting#gitlab)                | Ruby          | ..             | Git Hosting기능을 중심으로 여러 기능을 통합 |
+| [Gerrit](/devops-tools/git-hosting#gerrit)                | Java          | Apache2        | 코드리뷰를 위한 시스템으로, 리뷰를 하기 위한 별도 repository를 유지 |
 | [Review Board](/devops-tools/git-hosting#review-board)    | Python        | MIT            | .. |
 
 # CI/CD
