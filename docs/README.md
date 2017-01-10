@@ -72,18 +72,25 @@ text를 graph형태로 표현해 주는 library
 ### Docsify
 Markdown을 SPA 형태로 보여주는 JavaScript
 
-## Chart.js
-## D3.js
-## Dragula
-## moment.js
-## sweetAlert
-## clipboard.js
+### Chart.js
+### D3.js
+### Dragula
+### moment.js
+### sweetAlert
+### clipboard.js
 
-# Java
-## Zuul
-## Eureka
-## Hollow
-## Hystrix
+## Java
+### Zuul
+Microservice Gateway service
+
+Request의 Front-door 역할을 수행하며, Backend service들에 대한 dynamic routing, 모니터링 등의 기능을 제공
+
+### Eureka
+Microservice를 위한 Service Registry
+
+Service에 대한 Failover와 Load balancing을 지원
+
+### Hystrix
 분산시스템에서,외부 서비스나 시스템, library 호출 시 발생할 수 있는 실패를 격리
 
 
