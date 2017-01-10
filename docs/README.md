@@ -50,9 +50,22 @@ CSS Pre-processor
 ### PostCSS
 CSS Post-processor
 
+## Messaging
+### Apache Kafka
+
+## AI
+### TensorFlow
+
+## 난독화
+### uglify.js
+
+
 # Library
 
 ## Javascript
+### Vue.js
+frontend framework
+
 ### Mermaid
 text를 graph형태로 표현해 주는 library
 
