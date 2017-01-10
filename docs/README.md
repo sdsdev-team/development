@@ -14,8 +14,11 @@
 
 
 # Solution
-## In-Memory Cache
+## In-Memory DB
 ### Redis
+### H2
+### Aerospike
+### VoltDB
 
 ## DB Migration
 ### Flyway
