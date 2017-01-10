@@ -38,7 +38,7 @@
 
 
 # Configuration Management
-[Chef vs. Puppet vs. Ansible vs. SaltStack vs. Fabric](http://blog.takipi.com/deployment-management-tools-chef-vs-puppet-vs-ansible-vs-saltstack-vs-fabric/)
+<a href="http://blog.takipi.com/deployment-management-tools-chef-vs-puppet-vs-ansible-vs-saltstack-vs-fabric/" target="_">Chef vs. Puppet vs. Ansible vs. SaltStack vs. Fabric</a>
 
 |                                                             | Platform      | License        | 비고 |
 |---                                                          |---            |---             |---  |
@@ -65,10 +65,12 @@
 | [Zipkin](/devops-tools/monitor#zipkin)       | Java                 | Apache2        | Microservice 사이의 latency를 추적하기 위한 시스템 |
 
 # Collaboration
+
+<a href="https://stackshare.io/stackups/lets-chat-vs-rocketchat-vs-mattermost" target="_blank">Rocket.chat vs. Mattermost</a>
+
 |                                                         | Platform          | License        | 비고 |
 |---                                                      |---                |---             |---  |
 | [Mattermost](/devops-tools/collaboration#mattermost)    | Go Lang, React.js | Apache2        | Slack Alternative. Slack Compatible.|
 | [Rocket.Chat](/devops-tools/collaboration#rocketchat)   | Meteor            | MIT            | Slack Alternative |
 | [Only Office](/devops-tools/collaboration#only-office)  | Mono, .NET        | AGPL 3.0       | 문서공유 및 동시편집  |
 
-[Rocket.chat vs. Mattermost](https://stackshare.io/stackups/lets-chat-vs-rocketchat-vs-mattermost)
