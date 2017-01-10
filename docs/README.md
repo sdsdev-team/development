@@ -10,6 +10,10 @@
 * [Logging / Monitoring](/devops-tools/monitor)
 * [Collaboration](/devops-tools/collaboration)
 
+# Solutions
+## Redis
+In Memory Cache System
+
 
 # Library
 
