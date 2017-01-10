@@ -83,4 +83,7 @@ Markdown을 SPA 형태로 보여주는 JavaScript
 ## Zuul
 ## Eureka
 ## Hollow
+## Hystrix
+분산시스템에서,외부 서비스나 시스템, library 호출 시 발생할 수 있는 실패를 격리
+
 
