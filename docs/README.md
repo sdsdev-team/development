@@ -60,7 +60,7 @@ CSS Post-processor
 ### uglify.js
 
 
-# Library
+# Libraries
 
 ## Javascript
 ### Vue.js
