@@ -1,15 +1,15 @@
 
 # DevOps tools
-  [Overview](devops-tools)
+  [Overview](devops-tools/)
   
-* [Issue Management](devops-tools/issue-management)
-* [Git hosting / Code Review](devops-tools/git-hosting)
-* [CI / CD](devops-tools/ci-cd)
-* [Containerize](devops-tools/containerize)
-* [Configuration Management](devops-tools/configuration-management)
-* [Service Discovery](devops-tools/service-discovery)
-* [Logging / Monitoring](devops-tools/monitor)
-* [Collaboration](devops-tools/collaboration)
+* [Issue Management](devops-tools/issue-management/)
+* [Git hosting / Code Review](devops-tools/git-hosting/)
+* [CI / CD](devops-tools/ci-cd/)
+* [Containerize](devops-tools/containerize/)
+* [Configuration Management](devops-tools/configuration-management/)
+* [Service Discovery](devops-tools/service-discovery/)
+* [Logging / Monitoring](devops-tools/monitor/)
+* [Collaboration](devops-tools/collaboration/)
 
 
 
