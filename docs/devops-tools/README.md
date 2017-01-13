@@ -63,7 +63,7 @@
 | [ELK Stack](/devops-tools/monitor/#elk-stack) | Java,Ruby,Javascript | Apache2        | ElasticSearch + LogStash + Kibana   |
 | [ELG Stack](/devops-tools/monitor/#elg-stack) | Java, Ruby           | GPLv3          | ElasticSearch + LogStash + GrayLog2 + MongoDb. 사용자관리기능 탑재(LDAP, AD연결 가능) |
 | [Zipkin](/devops-tools/monitor/#zipkin)       | Java                 | Apache2        | Microservice 사이의 latency를 추적하기 위한 시스템 |
-| [Glowroot](/devops-tools/monitor/#glowroot    | Java                 | Apache2        | APM tool |
+| [Glowroot](/devops-tools/monitor/#glowroot)   | Java                 | Apache2        | APM tool |
 
 # Collaboration
 
