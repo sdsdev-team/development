@@ -76,6 +76,7 @@ text를 graph형태로 표현해 주는 library
 Markdown을 SPA 형태로 보여주는 JavaScript
 
 ### Chart.js
+### Chartist.js
 ### D3.js
 ### Dragula
 ### moment.js
