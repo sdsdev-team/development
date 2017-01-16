@@ -70,6 +70,8 @@
 | [Icinga](/devops-tools/monitor/#icinga)         | C++                  | GPL2           | Nagios에서 Fork. 네트워크 서비스 (SMTP, HTTP, ...), Host Resource (CPU, Disk, ...), 서버 Component (switch, router, ...) 모니터링   |
 | [Prometheus](/devops-tools/monitor/#prometheus) | Go + &alpha;         | Apache2        |            |
 | [Hygieia](/devops-tools/monitor/#hygieia)       | Java                 | Apache2        | DevOps Dashboard           |
+| [Zabbix](/devops-tools/monitor/#zabbix)         | C, PHP               | GPL2           | Network and application monitoring |
+
 
 # Collaboration
 
