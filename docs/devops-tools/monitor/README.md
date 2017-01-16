@@ -8,4 +8,4 @@
 https://prometheus.io/
 ## Hygieia
 ## Zabbix
-## Logio
+## Log.io
