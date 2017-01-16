@@ -25,6 +25,7 @@
 | [Spinnaker](/devops-tools/ci-cd/#spinnaker)   | Java          | Apache2        | .. |
 | [Jenkins](/devops-tools/ci-cd/#jenkins)       | Java          | MIT            | .. |
 | [GoCD](/devops-tools/ci-cd/#gocd)             | Java, Ruby    | Apache2        | Pipeline기반 빌드관리 시스템. 빌드환경별 agent가 필요. Pipeline에 대한 설정은 Go Server에서 수행 |
+| [Bazel](/devops-tools/ci-cd/#bazel)           | Java          | Apache2        | Google's own build tool.   | 
 
 
 # Containerize
