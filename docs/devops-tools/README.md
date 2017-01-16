@@ -6,6 +6,7 @@
 |---                                                        |---            |---             |---  |
 | [Phabricator](/devops-tools/issue-management/#phabricator) | PHP           | Apache2        | 개발에서 사용하는 여러 tool들의 집합. Kanban 보드 제공 |
 | [RedMine](/devops-tools/issue-management/#redmine)         | Ruby On Rails | GPL2           | WBS나 gantt 형태의 일감관리 가능 |
+| [Tuleap](/devops-tools/issue-management/#tuleap)           | PHP           | GPL2           |  |
 
 
 # Git Hosting / Code Review
