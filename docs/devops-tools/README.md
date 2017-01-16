@@ -71,7 +71,7 @@
 | [Prometheus](/devops-tools/monitor/#prometheus) | Go + &alpha;         | Apache2        |            |
 | [Hygieia](/devops-tools/monitor/#hygieia)       | Java                 | Apache2        | DevOps Dashboard           |
 | [Zabbix](/devops-tools/monitor/#zabbix)         | C, PHP               | GPL2           | Network and application monitoring |
-
+| [Log.io](/devops-tools/monitor/#logio)          | node.js              | Apache2        | Realtime log monitoring in your browser |
 
 # Collaboration
 
