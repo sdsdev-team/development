@@ -1,3 +1,7 @@
+---
+permalink: /devops-tools/monitor/
+---
+
 # Logging / Monitoring
 ## Kibana
 ## LogStash
