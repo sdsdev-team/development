@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 kramdown:
   # Enable GitHub Flavored Markdown (fenced code blocks)
   input: GFM
+
+redcarpet:
+  extensions: ["with_toc_data"]
