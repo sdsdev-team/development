@@ -6,9 +6,11 @@ permalink: /devops-tools/collaboration/
 
 
 ## Mattermost
+
 https://about.mattermost.com/
 
 ### Overview
+
 설치형 Slack Alternative.
 
 Slack과 연결하여 사용하는 기능은, 코드의 변경 없이 Mattermost와 연결할 수 있다.
@@ -25,12 +27,17 @@ HA 구성은 Enterprise 버전에서만 제공된다.
 (공식 사이트에 비공식적으로 가이드를 하고 있다.)
 
 ## Rocket.Chat
+
 ### Overview
+
 설치형 Slack Alternative.
 
 ## Only Office
+
 https://www.onlyoffice.com/
+
 ### Overview
+
 
 온라인에서 문서를 공유하고, 동시편집을 할 수 있도록 지원하는 시스템.
 
