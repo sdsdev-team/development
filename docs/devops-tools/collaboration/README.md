@@ -1,3 +1,7 @@
+---
+permalink: /devops-tools/collaboration/
+---
+
 # Collaboration Tools
 
 
