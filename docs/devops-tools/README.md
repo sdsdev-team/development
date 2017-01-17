@@ -34,8 +34,9 @@ permalink: /devops-tools/
 | [Catpstrano](ci-cd/#capistrano) | Ruby          | MIT            | Deployment automation tool. |
 
 # Containerize
-|                                                   | Platform      | License        | 비고 |
-|---                                                |---            |---             |---  |
+
+|                                         | Platform      | License        | 비고 |
+|---                                      |---            |---             |---  |
 | [Vagrant](containerize/#vagrant)        | Ruby          | MIT            | .. |
 | [Docker](containerize/#docker)          |               |                | .. |
 | [Packer](containerize/#packer)          |               |                | .. |
@@ -65,6 +66,7 @@ permalink: /devops-tools/
 
 
 # Logging / Monitoring
+
 |                                                | Platform             | License        | 비고 |
 |---                                             |---                   |---             |---  |
 | [ELK Stack](monitor/#elk-stack)   | Java,Ruby,Javascript | Apache2        | ElasticSearch + LogStash + Kibana   |
