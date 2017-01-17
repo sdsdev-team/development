@@ -4,19 +4,16 @@ permalink: /devops-tools/monitor/
 
 # Logging / Monitoring
 
-## Kibana
+## ELK Stack
 
-## LogStash
-
-## Graphite
-
-## Grafana
+## EKG Stack
 
 ## Zipkin
 
 ## Prometheus
 
 https://prometheus.io/
+
 ## Hygieia
 
 ## Zabbix
