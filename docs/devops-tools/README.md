@@ -1,3 +1,7 @@
+---
+permalink: /devops-tools/
+---
+
 # Issue Management
 
 <a href="https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems" target="_blank">Project 관리시스템 비교표</a>
