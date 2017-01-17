@@ -1,3 +1,7 @@
+---
+permalink: /devops-tools/issue-management/
+---
+
 # Issue Management Tools
 
 ## Phabricator
