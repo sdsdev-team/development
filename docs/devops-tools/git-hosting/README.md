@@ -1,3 +1,7 @@
+---
+permalink: /devops-tools/git-hosting/
+---
+
 # Git Hosting & Review
 
 ## Gitlab
